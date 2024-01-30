@@ -1,4 +1,4 @@
-# PI_DATel - Proyecto Individual de Data Analytics en SoyHenry
+# Data Analytics y Data Visualization con Telecomunicaciones
 
 ## Descripción
 
